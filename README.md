@@ -1,16 +1,17 @@
-## Hi there 👋
+### Sonhe e Viva! Ficar parado não é uma opção 
 
-<!--
-**Gabyz21/Gabyz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Gabriela 👋
 
-Here are some ideas to get you started:
+- Estou estudado no [Alura](https://www.alura.com.br) 
+- Estou me desenvolvendo na línguagem JavaScript
+- Vou mostrar meu projetos e sonhos a vocês!
+- Curso de Libras 🤟
+- Amo Esportes ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Se tiver dúvidas, entre em contato!
+
+00001067089640sp@al.educacao.sp.gpv.br
+
+@sg_ppsm
+
+![](https://media1.tenor.com/m/Ujz1AMoesGsAAAAC/%D9%83%D8%B3%D9%85%D9%83-cats.gif)
